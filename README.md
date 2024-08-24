@@ -1,2 +1,2 @@
 #project for dev.boot names bookbot
-BookBot is my first project!
+BookBot is my first project! :)
